@@ -1,6 +1,6 @@
 # Hi, I'm Nawapat 👋
 
-Computer Science student and software developer focused on practical mobile apps, web applications, QA testing, UI design, and game systems.
+Software developer and QA-focused builder creating practical apps, web tools, game systems, and thoughtful user experiences.
 
 ## Featured projects
 
